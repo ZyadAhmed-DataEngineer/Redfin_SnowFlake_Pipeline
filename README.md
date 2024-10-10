@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-This project demonstrates how to build an automated data pipeline using AWS EC2, S3, Apache Airflow, Snowflake, and Power BI to extract, process, and visualize Redfin housing market data. The primary objective is to create an efficient end-to-end ETL (Extract, Transform, Load) process that ensures seamless data flow from Redfin to Power BI for analytics and reporting.
+  This project demonstrates how to build an automated data pipeline using AWS EC2, S3, Apache Airflow, Snowflake, and Power BI to extract, process, and visualize Redfin housing market data. The primary objective is to create an efficient end-to-end ETL (Extract, Transform, Load) process that ensures seamless data flow from Redfin to Power BI for analytics and reporting.
 
 ## Pipeline Architecture
 
 The architecture automates the entire ETL workflow, leveraging the power of cloud services and orchestration tools. 
 
-### Here's an overview of the components involved:
+### Components involved:
 
 Source Data: Redfin housing market data
 AWS EC2: Hosts Apache Airflow to orchestrate the ETL pipeline and manage workflow scheduling
@@ -33,4 +33,4 @@ Business Insights: Power BI provides a powerful platform for data visualization,
 
 ## Conclusion
 
-This data pipeline showcases how modern cloud infrastructure and tools like AWS, Apache Airflow, Snowflake, and Power BI can be combined to create an automated, scalable, and efficient solution for processing Redfin housing market data. With this setup, you can ensure that data is always up-to-date, easily accessible, and ready for analysis.
+  This data pipeline showcases how modern cloud infrastructure and tools like AWS, Apache Airflow, Snowflake, and Power BI can be combined to create an automated, scalable, and efficient solution for processing Redfin housing market data. With this setup, you can ensure that data is always up-to-date, easily accessible, and ready for analysis.
